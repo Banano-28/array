@@ -18,10 +18,11 @@ frutas.append("Banana")
 
 print("Frutas iniciales:", frutas)
 
-frutas.pop(0)  # elimina "Mango"
-frutas.pop(1)  # ahora elimina "Banana" porque los índices se recorrieron
+frutas.pop(0)  # DEL "Mango"
+frutas.pop(1)  # DEL "Banana" 
 
 frutas.append("Sandía")
 
 print("Frutas finales:", frutas)
+
 
